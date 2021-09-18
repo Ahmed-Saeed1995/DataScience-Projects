@@ -1,2 +1,2 @@
 # Epsilon-AI-DS-Projects
-#Data Science projects
+**Data Science projects**
