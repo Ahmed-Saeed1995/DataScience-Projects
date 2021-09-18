@@ -1,5 +1,4 @@
-# Epsilon-AI-DS-Projects
-## **Data Science projects**
+# DataScence-Projects
 - including Supervised and unsupervised learning
     - Linear Regression
     - Logistic Regression
