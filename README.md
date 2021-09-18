@@ -1,4 +1,4 @@
-# DataScence-Projects
+# DataScience-Projects
 - including Supervised and unsupervised learning
     - Linear Regression
     - Logistic Regression
